@@ -1,0 +1,52 @@
+{
+  "decks": [
+    {
+      "name": "The Battle of Bunker Hill",
+      "description": "Though a loss for American forces, this key battel proved a turning point in the American Revolution",
+      "id": 2
+    },
+    {
+      "name": "sa",
+      "description": "xz",
+      "id": 3
+    }
+  ],
+  "cards": [
+    {
+      "front": "3333",
+      "back": "33333",
+      "deckId": 2,
+      "id": 8
+    },
+    {
+      "front": "sdfs",
+      "back": "sdfsdf",
+      "deckId": 2,
+      "id": 9
+    },
+    {
+      "front": "sdfsf",
+      "back": "sdfsdf",
+      "deckId": 2,
+      "id": 10
+    },
+    {
+      "front": "sdfsdf",
+      "back": "sdfsdf",
+      "deckId": 2,
+      "id": 11
+    },
+    {
+      "front": "sdfsdf",
+      "back": "sdfsdf",
+      "deckId": 2,
+      "id": 12
+    },
+    {
+      "front": "xzxz",
+      "back": "xzxz",
+      "deckId": 3,
+      "id": 13
+    }
+  ]
+}
