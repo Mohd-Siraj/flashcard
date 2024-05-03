@@ -12,4 +12,4 @@ An application that allows users to create flash cards and quiz themselves. This
 - Decks can be deleted and edited
 - Safegaurds are in place to prevent users from accidentaly deleting decks with cards in them and cards with no content.
 
-https://flashcard-git-main-mohdsirajs-projects.vercel.app/
+[https://flashcard-git-main-mohdsirajs-projects.vercel.app/](https://flashcard-jndf.vercel.app/)
