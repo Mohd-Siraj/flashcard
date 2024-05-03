@@ -64,7 +64,7 @@ function CardForm({
           <button onClick={altButtonHandler} className="btn btn-secondary mr-2">
             {altButtonText}
           </button>
-          <input type="submit" value="Submit" className="btn btn-primary" />
+          <input type="submit" value="Save" className="btn btn-primary" />
         </div>
       </form>
     </div>
